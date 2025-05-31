@@ -1,5 +1,5 @@
-# Deep-Learning-
-# 🚀 Excited to share my latest GitHub repository on Deep Learning! 🌟
+# Deep-Learning
+# 🚀 GitHub repository on Deep Learning! 🌟
 
 I've compiled a comprehensive set of projects that leverage state-of-the-art architectures and techniques, including ANN, CNN, LeNet-5, AlexNet, VGG16, VGG19, GoogleNet, and YOLO. These projects cover a diverse range of applications such as:
 
