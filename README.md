@@ -13,4 +13,3 @@ I've compiled a comprehensive set of projects that leverage state-of-the-art arc
 
 🎨 CIFAR-100 Image Classification: Tackling the challenging CIFAR-100 dataset with advanced CNN architectures.
 
-Each project includes detailed documentation and code to help you understand and implement these models. Whether you're a beginner looking to learn or an experienced practitioner seeking inspiration, there's something here for everyone.
